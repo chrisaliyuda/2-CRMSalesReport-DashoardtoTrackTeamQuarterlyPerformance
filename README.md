@@ -17,4 +17,11 @@ An interaction into how the different products performed across quarters, percen
 
 ![Maven Analytics Dashboard pdf2_page-0002](https://github.com/chrisaliyuda/CRM-Sales/assets/102206477/64272999-5527-4903-9218-94eb47cc055c)
 
+### Sales Agent Performance 
+A deep dive into the performance of the different sales agents as it regards the total orders generated, record sales won, total sales, % sales converted, and deal stage (win) rate was also necessary.
+
+![Maven Analytics Dashboard_page-0003](https://github.com/chrisaliyuda/CRM-Sales/assets/102206477/cd284a3d-f74b-4a2f-b688-4d57e007c1cf)
+
+Note: These are interactive dashboards, so to effectively gain more insights, you need to have the Power BI software and then click on the link [here] to open up the project file 
+
 
